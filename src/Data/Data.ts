@@ -53,3 +53,58 @@ export const countries = [
   "Lithuania",
   "Kazakhstan",
 ];
+
+
+// Industry.tsx
+export const industries = [
+  {
+    id: 1,
+    img: "/Industry/automotive.png",
+    industry: "Automotive",
+  },
+  {
+    id: 2,
+    img: "/Industry/Tech.png",
+    industry: "Tech",
+  },
+  {
+    id: 3,
+    img: "/Industry/Finance.png",
+    industry: "Finance",
+  },
+  {
+    id: 4,
+    img: "/Industry/Fashion.png",
+    industry: "Fashion",
+  },
+  {
+    id: 5,
+    img: "/Industry/Apps.png",
+    industry: "Apps",
+  },
+  {
+    id: 6,
+    img: "/Industry/Home.png",
+    industry: "Home",
+  },
+  {
+    id: 7,
+    img: "/Industry/oil.png",
+    industry: "Oil",
+  },
+  {
+    id: 8,
+    img: "/Industry/telecomunicatin.png",
+    industry: "Telecom",
+  },
+  {
+    id: 9,
+    img: "/Industry/energy.png",
+    industry: "Energy",
+  },
+  {
+    id: 10,
+    img: "/Industry/health.png",
+    industry: "Healthcare",
+  },
+];
