@@ -50,11 +50,11 @@ const Blog = () => {
       <h1 className="text-xl md:text-[36px] font-bold mb-10">
         Latest in the World of ESG
       </h1>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 md:px-6 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 md:px-6  gap-8">
         {blog.map((post) => (
           <div
             key={post.id}
-            className="bg-[#D9D9D9]   shadow-md hover:shadow-lg transition-shadow duration-300"
+            className="bg-[#D9D9D9]  border border-[#00000080] shadow-md hover:shadow-lg transition-shadow duration-300"
           >
             <Image
               src={post.image}
