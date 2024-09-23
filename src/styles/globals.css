@@ -9,3 +9,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.bghero2 {
+  background-image: url('/back3.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
