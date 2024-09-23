@@ -15,7 +15,7 @@ const Country: React.FC = () => {
           <div className="grid grid-cols-2  md:grid-cols-3 max-w-5xl lg:grid-cols-4 gap-6">
             {countries.map((country, index) => (
               <div key={index} className="flex justify-center items-center ">
-                <span className="font-medium text-[20px] leading-[26px] rounded-lg border-blue-500 text-center border py-1 px-6 w-full max-w-md">
+                <span className="font-medium text-[20px] leading-[26px]  hover:text-white hover:bg-blue-500 rounded-lg border-blue-500 text-center border py-1 px-6 w-full max-w-md">
                   {country}
                 </span>
               </div>

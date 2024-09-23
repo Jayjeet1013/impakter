@@ -46,7 +46,7 @@ const Faqs = () => {
             <AccordionDetails>
               <Typography className="font-normal -mt-6 md:text-[20px] md:leading-[30px] ">
                 ESG stands for Environmental, Social, and Governance. These
-                three areas are used to assess a company's impact on the
+                three areas are used to assess a company&apos;s impact on the
                 environment, its treatment of employees and communities, and the
                 quality of its leadership and governance practices.
               </Typography>
@@ -64,8 +64,8 @@ const Faqs = () => {
             </AccordionSummary>
             <AccordionDetails>
               <Typography className="font-normal -mt-6 md:text-[20px] md:leading-[30px] ">
-                ESG ratings are calculated based on a company's performance in
-                the areas of environmental impact, social responsibility, and
+                ESG ratings are calculated based on a company&apos;s performance
+                in the areas of environmental impact, social responsibility, and
                 corporate governance. Data is collected on factors such as
                 carbon emissions, labor practices, diversity, board
                 independence, and transparency.
@@ -104,10 +104,11 @@ const Faqs = () => {
             </AccordionSummary>
             <AccordionDetails>
               <Typography className="font-normal -mt-6 md:text-[20px] md:leading-[30px] ">
-                Investors use ESG ratings to evaluate companies' sustainability
-                practices, which helps them make informed decisions about where
-                to allocate funds. Companies with higher ESG ratings are often
-                seen as less risky and more sustainable in the long term.
+                Investors use ESG ratings to evaluate companies&apos;
+                sustainability practices, which helps them make informed
+                decisions about where to allocate funds. Companies with higher
+                ESG ratings are often seen as less risky and more sustainable in
+                the long term.
               </Typography>
             </AccordionDetails>
           </Accordion>

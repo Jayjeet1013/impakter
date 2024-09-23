@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
   const [rating, setRating] = useState("All Ratings");
 
   return (
-    <div className="bghero bg-[#C0E2F8] flex justify-center ">
+    <div className="bghero2 bg-[#C0E2F8] flex justify-center ">
       <div className="py-12 md:py-0 md:h-[720px] flex max-w-[1400px] w-full flex-col justify-center items-center px-4">
         {/* Heading */}
         <div className="text-center pb-8 md:pb-32">
