@@ -10,21 +10,20 @@ import Important from "@/components/home/Important";
 import Industry from "@/components/home/Industry";
 import Result from "@/components/home/Result";
 
-
 export default function Home() {
   return (
-  <div>
-<Hero/>
-<EsgScore/>
-<Country/>
-<Industry/>
-<Result/>
-<Certificate/>
-<Important/>
-<Calculated/>
-<Blog/>
-<Faqs/>
-<BookDemo/>
-  </div>
+    <div className="bg-white text-black  ">
+      <Hero />
+      <EsgScore />
+      <Country />
+      <Industry />
+      <Result />
+      <Certificate />
+      <Important />
+      <Calculated />
+      <Blog />
+      <Faqs />
+      <BookDemo />
+    </div>
   );
 }
