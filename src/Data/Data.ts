@@ -892,5 +892,4 @@ export const allcountry = [
       "Zamora",
     ],
   },
-  // ... (Continue with K to Z)
 ];
